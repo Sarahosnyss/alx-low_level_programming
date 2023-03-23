@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 /**
 * main - causes an infinite loop
@@ -22,3 +23,6 @@ int main(void)
 
 	return (0);
 }
+=======
+
+>>>>>>> 63f0e03df8d0b1f0444c45f2da70ac95d5d575d9

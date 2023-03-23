@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 #include <unistd.h>
 
 int main(void)
@@ -8,3 +9,5 @@ int main(void)
   return 1;
 }
 
+=======
+>>>>>>> 63f0e03df8d0b1f0444c45f2da70ac95d5d575d9
